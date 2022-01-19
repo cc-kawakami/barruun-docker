@@ -1,3 +1,0 @@
-name: hogehoge
-destination: bigquery.googleapis.com/projects/:PROJECT_ID/datasets/test
-log-filter: 'jsonPayload."event-data":*'
